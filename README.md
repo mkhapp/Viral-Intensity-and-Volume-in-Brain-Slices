@@ -1,4 +1,4 @@
-# Viral-Intensity-and-Volume-in-Brain-Slices
+# Viral Intensity and Volume in Brain Slices
 For Lee Peyton
 
 This macro was written in January 2025 to help Lee Peyton analyze his brain slice images
